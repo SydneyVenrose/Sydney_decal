@@ -19,7 +19,8 @@ def multiply(a, b):
 def divide(a, b):
 
     #Returns the quotient of a divided by b.
-    If b is zero, returns 'Undefined' to avoid division by zero.
+
+    #If b is zero, returns 'Undefined' to avoid division by zero.
     
     if b == 0:
         return "Undefined"
